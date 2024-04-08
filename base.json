@@ -2529,7 +2529,7 @@
           "description": "app canvas background"
         },
         "misc1": {
-          "$value": "{colors.blue.200}",
+          "$value": "{colors.purple.200}",
           "type": "color"
         },
         "misc2": {
@@ -2542,6 +2542,30 @@
         },
         "misc4": {
           "$value": "{colors.grey.200}",
+          "type": "color"
+        },
+        "misc5": {
+          "$value": "{colors.yellow.100}",
+          "type": "color"
+        },
+        "misc6": {
+          "$value": "{colors.purple.100}",
+          "type": "color"
+        },
+        "misc7": {
+          "$value": "{colors.magenta.100}",
+          "type": "color"
+        },
+        "misc8": {
+          "$value": "{colors.grey.50}",
+          "type": "color"
+        },
+        "misc9": {
+          "$value": "{colors.grey.100}",
+          "type": "color"
+        },
+        "misc10": {
+          "$value": "{color.yellow.50}",
           "type": "color"
         }
       },
